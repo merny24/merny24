@@ -1,33 +1,26 @@
-### Hi there 👋
+### Hi there 👋, my name is Merny
+#### I am a System Administrator
+![I am a System Administrator](https://pbs.twimg.com/profile_banners/200190025/1700198702/600x200)
 
-<!--
-**merny24/merny24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a with a strong background in Lab Information Systems, Radiology and Research IT. 
 
-Here are some ideas to get you started:
+Proficient in offering comprehensive assistance for EHR systems like Allscripts (Sunrise Clinical Manager) and EPIC, Cerner encompassing installation, configuration, and maintenance. Skilled in troubleshooting EMR HL7 ADT/SIU interfaces, converting HL7 messages to XML, and running SQL queries. With a proven track record in managing and optimizing REDCap systems on RED Hat Enterprise Linux servers (RHEL 7 and RHEL 8), I ensure seamless operations within DMZ and internal networks. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proficient in navigating Linux environments, employing bash scripting, and adeptly handling Red Hat Enterprise Linux systems. Additionally, I possess specialized expertise in dictation and transcription services using Nuance and 3M MModal, contributing to efficient healthcare documentation processes. Committed to delivering tailored technical solutions that elevate healthcare systems and streamline workflows.
 
-I'm Merny from Haiti currently reside in New York City. 
-I'm an IT Systems Adminstrator Consultant with a strong background in Lab
-Information Systems, Radiology and Research IT. Proficient in offering comprehensive
-assistance for EHR systems like Allscripts (Sunrise Clinical Manager) and EPIC, Cerner
-encompassing installation, configuration, and maintenance. Skilled in troubleshooting EMR
-HL7 ADT/SIU interfaces, converting HL7 messages to XML, and running SQL queries. With a
-proven track record in managing and optimizing REDCap systems on RED Hat Enterprise Linux
-servers (RHEL 7 and RHEL 8), I ensure seamless operations within DMZ and internal networks.
-Proficient in navigating Linux environments, employing bash scripting, and adeptly handling
-Red Hat Enterprise Linux systems. Additionally, I possess specialized expertise in dictation and
-transcription services using Nuance and 3M MModal, contributing to efficient healthcare
-documentation processes. Committed to delivering tailored technical solutions that elevate
-healthcare systems and streamline workflows.
+Skills: RED Hat Enterprise Linux / MySQL / Python / HTML / CSS
+
+- 🔭 I’m currently working on my RHCSA. 
+- 👯 I’m looking to collaborate on open source projects. 
+- 🤔 I’m looking for help with building my portfolio 
+- 💬 Ask me about Healthcare IT 
+- 📫 How to reach me: mernyp24@gmail.com 
+- ⚡ Fun fact: i play ping pong, basketball 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/merny24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/merny24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/merny-pierre-27563984/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mernypierre)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Itstheofficial24)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merny24)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=merny24&show_icons=true)  
 
