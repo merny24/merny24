@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Merny
+### Hi there 👋, I am Merny
 #### I am a System Administrator
 ![I am a System Administrator](https://pbs.twimg.com/profile_banners/200190025/1700198702/600x200)
 
