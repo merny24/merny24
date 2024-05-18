@@ -19,7 +19,7 @@ Dictation: Nuance Escription LH / Nuance Dragon / 3M MModal Fluency Direct / 3M 
 Research IT: REDCap / JReview / TrialX iConnect  
 
 - 🔭 I’m currently working on my RHCSA. 
-- 👯 I’m looking to collaborate on open-source projects. 
+- 🤝 I’m looking to collaborate on open-source projects. 
 - 🤔 I’m looking for help with building my portfolio 
 - 💬 Ask me about Healthcare IT 
 - 📫 How to reach me: mernyp24@gmail.com 
