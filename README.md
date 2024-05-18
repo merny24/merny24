@@ -15,7 +15,7 @@ IT Systems Environment: RED Hat Enterprise Linux / AWS
 
 Healthcare IT  
 Health Integrations: Master Patient Index / InterSystems HealthShare IRIS / Verato  
-Dictation: Nuance Escription LH / Nuance Dragon / 3M MModal Fluency Direct / FLuency for Transcription Manager  
+Dictation: Nuance Escription LH / Nuance Dragon / 3M MModal Fluency Direct / 3M Mmodal FLuency for Transcription Manager  
 Research IT: REDCap / JReview / TrialX iConnect  
 
 - 🔭 I’m currently working on my RHCSA. 
