@@ -2,7 +2,7 @@
 #### I am a System Administrator
 ![I am a System Administrator](https://pbs.twimg.com/profile_banners/200190025/1700198702/600x200)
 
-I have a strong background in Lab Information Systems, Radiology, and Research IT. 
+I have a strong background in Lab Information Systems, Healthcare IT Integrations, Radiology, and Research IT. 
 
 Proficient in offering comprehensive assistance for EHR systems like Allscripts (Sunrise Clinical Manager), EPIC, and Cerner, encompassing installation, configuration, and maintenance. Skilled in troubleshooting EMR HL7 ADT/SIU interfaces, converting HL7 messages to XML and running SQL queries. With a proven track record in managing and optimizing REDCap systems on RED Hat Enterprise Linux servers (RHEL 7 and RHEL 8), I ensure seamless operations within DMZ and internal networks. 
 
