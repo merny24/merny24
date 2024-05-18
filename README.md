@@ -8,12 +8,12 @@ Proficient in offering comprehensive assistance for EHR systems like Allscripts 
 
 Proficient in navigating Linux environments, employing bash scripting, and adeptly handling Red Hat Enterprise Linux systems. Additionally, I possess specialized expertise in dictation and transcription services using Nuance and 3M MModal, contributing to efficient healthcare documentation processes. Committed to delivering tailored technical solutions that elevate healthcare systems and streamline workflows.
 
-IT Skills  
+### IT Skills  
 Languages: Python / HTML / CSS / Javascript  
 Databases: MySQL  
 IT Systems Environment: RED Hat Enterprise Linux / AWS  
 
-Healthcare IT  
+### Healthcare IT  
 Health Integrations: Master Patient Index / InterSystems HealthShare IRIS / Verato  
 Dictation: Nuance Escription LH / Nuance Dragon / 3M MModal Fluency Direct / 3M Mmodal FLuency for Transcription Manager  
 Research IT: REDCap / JReview / TrialX iConnect  
