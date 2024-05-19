@@ -4,6 +4,14 @@ on:
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags' 
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -11,5 +19,7 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: <username_credly> # optional, but default will use the same from github
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BADGE_SIZE: 100
+          NUMBER_LAST_BADGES: 24
