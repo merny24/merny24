@@ -11,7 +11,7 @@ Proficient in navigating Linux environments, employing bash scripting, and adept
 ### IT Skills  
 Languages: Python / HTML / CSS / Javascript  
 Databases: MySQL  
-IT Systems Environment: RED Hat Enterprise Linux / AWS  
+IT Systems: RED Hat Enterprise Linux / AWS  
 
 ### Healthcare IT  
 Health Integrations: Master Patient Index / InterSystems HealthShare IRIS / Verato / HL7 / FHIR  
