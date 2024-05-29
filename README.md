@@ -17,7 +17,7 @@ IT Systems: RED Hat Enterprise Linux / AWS
 Electronic Medical Record: Epic (Beaker, Radiant) / Cerner / Allscripts  
 Health Integrations: Master Patient Index / InterSystems HealthShare IRIS / Verato / HL7 / FHIR  
 Dictation: Nuance Escription LH / Nuance Dragon / 3M MModal Fluency Direct / 3M MModal FLuency for Transcription Manager  
-Research IT: REDCap / JReview / TrialX iConnect  
+Clinical Research IT: REDCap / JReview / TrialX iConnect / Trial Master EDC  
 
 - 🔭 I’m currently working on my RHCSA. 
 - 🤝 I’m looking to collaborate on open-source projects. 
