@@ -13,7 +13,8 @@ Languages: Python / HTML / CSS / Javascript
 Databases: MySQL  
 IT Systems: RED Hat Enterprise Linux / AWS  
 
-### Healthcare IT  
+### Healthcare IT 
+Electronic Medical Record: Epic (Beaker, Radiant) / Cerner / Allscripts  
 Health Integrations: Master Patient Index / InterSystems HealthShare IRIS / Verato / HL7 / FHIR  
 Dictation: Nuance Escription LH / Nuance Dragon / 3M MModal Fluency Direct / 3M MModal FLuency for Transcription Manager  
 Research IT: REDCap / JReview / TrialX iConnect  
